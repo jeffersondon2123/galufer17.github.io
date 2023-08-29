@@ -5,8 +5,6 @@ Isso é um site que fiz para dizer que amo minha namorada
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <style>
-        body {
 </head>
 <body>
     <header>
