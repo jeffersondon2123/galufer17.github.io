@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <style>
@@ -79,10 +78,8 @@
     </style>
 </head>
 <body>
-    <header>
         <h1>EU  AMO  A EDUARDA  💖</h1>
         <p>Ela é o meu Sol, e o meu Mundo gira em torno dela</p>
-    </header>
     <div class="container">
         <div class="sun"></div>
         <div class="earth">
