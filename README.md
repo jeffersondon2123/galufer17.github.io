@@ -1,6 +1,3 @@
-# galufer17.github.io
-Isso é um site que fiz para dizer que amo minha namorada
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
